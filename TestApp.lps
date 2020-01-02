@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="TestApp.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15" Y="3"/>
+        <UsageCount Value="23"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="19"/>
+        <CursorPos X="23" Y="46"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="110"/>
+        <CursorPos X="27" Y="133"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../v7app/DialogLIB/v7dialog.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../v7app/DialogLIB/testunit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/home/jwoods/.lazarus/onlinepackagemanager/packages/acs/src/filters/linux/acs_cdrom.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="345"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../acs/src/filters/linux/acs_cdrom.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="260"/>
+        <CursorPos X="20" Y="280"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="49" Column="15" TopLine="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="30" Column="11" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="48" Column="29" TopLine="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="57" Column="48" TopLine="14"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="57" Column="21" TopLine="14"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="46" Column="61" TopLine="14"/>
+      </Position6>
+      <Position7>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="49" Column="71" TopLine="12"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="58" TopLine="13"/>
+      </Position8>
+      <Position9>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="57" TopLine="17"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="57" TopLine="17"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../v7app/DialogLIB/testunit1.pas"/>
+        <Caret Line="46" Column="13" TopLine="19"/>
+      </Position11>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
